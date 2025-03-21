@@ -1,15 +1,16 @@
 # paper-data
-青少年心理咨询数据集
-本数据集基于 efaqa-corpus-zh 语料库，并针对青少年心理咨询领域进行了深度优化。我们的主要改进包括：
+Adolescent Psychological Counseling Dataset (Chinese)
 
-语料库细化：聚焦青少年心理咨询场景，筛选相关数据。
-数据扩充：补充更多真实案例，提升覆盖度。
-数据清理：去除噪声数据，提升数据质量。
-数据平衡：均衡不同类别数据分布，避免偏差。
-拼写纠错：修正文本错误，优化文本可读性。
-最终，我们构建了一个专门用于青少年心理咨询的高质量数据集，共包含 13,084 条数据，涵盖以下三个核心类别：
+This dataset is based on the efaqa-corpus-zh corpus and has been deeply optimized for the field of adolescent psychological counseling. Our main improvements include:
 
-烦恼：涉及青少年日常心理困扰，如人际关系、学业压力等。
-心理疾病：涵盖影响个人社会功能的严重心理问题，需要专业心理或医疗干预。
-SOS紧急帮助：识别需立即人工干预的危机，如自杀倾向、严重情绪崩溃等。
-本数据集可用于心理健康研究、自然语言处理（NLP）训练、智能咨询系统等多个应用场景，希望能为青少年心理健康支持提供助力。
+Corpus Refinement: Focused on adolescent psychological counseling scenarios by filtering relevant data.
+Data Augmentation: Supplemented with more real-life cases to enhance coverage.
+Data Cleaning: Removed noisy data to improve quality.
+Data Balancing: Ensured an even distribution of different categories to prevent bias.
+Spelling Correction: Fixed textual errors to optimize readability.
+Finally, we have constructed a high-quality dataset specifically for adolescent psychological counseling, containing 13,084 entries, covering the following three core categories:
+
+Worries: Involves adolescents' daily psychological distress, such as interpersonal relationships and academic pressure.
+Psychological Disorders: Covers severe psychological issues that affect personal and social functioning and require professional psychological or medical intervention.
+SOS Emergency Help: Identifies crises requiring immediate human intervention, such as suicidal tendencies and severe emotional breakdowns.
+This dataset can be used in mental health research, natural language processing (NLP) training, intelligent counseling systems, and various other application scenarios, aiming to support adolescent mental health.
